@@ -1,6 +1,5 @@
 # KC
 <html>
-    <title>Продажа скинов по CS:GO</title>
     <body> 
         <header>
           <img src="https://cdn.pixabay.com/photo/2018/09/24/08/33/knife-3699336__340.png"> 
